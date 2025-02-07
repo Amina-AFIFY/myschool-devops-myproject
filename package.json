@@ -1,0 +1,24 @@
+{
+  "name": "projet_devops",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amina-AFIFY/myschool-devops-myproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amina-AFIFY/myschool-devops-myproject/issues"
+  },
+  "homepage": "https://github.com/Amina-AFIFY/myschool-devops-myproject#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
